@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <classes>
+ <class name="com.scp.service.CrudeHibernate.DataProviderClass.java" />
+ </classes>
+ </test>
+</suite>
